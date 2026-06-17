@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EcomApplication {
 
 	public static void main(String[] args) {
-		TimeZone.setDefault(TimeZone.getTimeZone("Asia/Kolkata"));
+		TimeZone.setDefault(TimeZone.getTimeZone("Asia/Kolkata")); // Some wierd error for timezone is fixed here..Credits:ChatGpt
 		SpringApplication.run(EcomApplication.class, args);
 	}
 
