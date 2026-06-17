@@ -1,2 +1,2 @@
-# Zwigato
-Zwigato is an ecommerce platform built using springboot 
+# ShopSphere
+ShopSphere is an ecommerce platform built using springboot 
